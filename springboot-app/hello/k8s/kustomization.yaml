@@ -9,4 +9,4 @@ resources:
 images:
 - name: hjbeauty/hello-app
   newName: hjbeauty/hello-app
-  newTag: f46fcaa
+  newTag: df4e741
